@@ -1,3 +1,17 @@
+/*
+Name: Armando Villa
+Date: 10/02/2024
+Description: The css page for index.html. An edited css file used to make the regular
+looking html file copy the appearance of the Pacific Trails Resort webpage screenshots
+
+
+Differences: 
+- Nav bar is not reaching the bottom.
+- Right side is reaching too far.
+
+*/
+
+
 header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 	display: block;
 }
@@ -8,7 +22,6 @@ body {
 	margin-left:auto;
 	margin-right:auto;
 	
-	/*My changes*/
 	min-width: 600px;
 	max-width: 80%;
 	padding-left: auto;
@@ -107,7 +120,7 @@ footer {
 	font-family: Georgia, "Times New Roman", serif;
 	font-style: italic;
 	font-size: small;
-	margin-left: 22%;
+	margin-left: 20%;
 	padding-bottom: 2%;
 }
 
